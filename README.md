@@ -7,7 +7,8 @@ Check this Google Doc for the Problem Statement: https://docs.google.com/documen
 
 The dataset is available on Kaggle: https://www.kaggle.com/cristinarea/iap-psfc-2019-hackforfusion
 
-Frank_Geoffrey's approach description:
+
+# Frank_Geoffrey's approach description:
 
 We started exploring the data.
 
